@@ -17,7 +17,7 @@
   "author": "Bethapudi Ramesh Babu",
   "license": "ISC",
   "devDependencies": {
-    "ajv": "^6.0.0",
+    "ajv": "^6.12.3",
     "moment": "^2.22.2"
   }
 }
